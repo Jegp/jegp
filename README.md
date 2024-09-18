@@ -15,4 +15,6 @@ Please see my profile on [Google Scholar](https://scholar.google.com/citations?u
 
 ## GitHub stats
 
+Sponsor me on GitHub: [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jegp)
+
 [![Jens Pedersen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jegp)](https://github.com/anuraghazra/github-readme-stats)
